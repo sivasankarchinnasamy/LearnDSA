@@ -1,0 +1,12 @@
+Finding the number of digits in a number.
+Arithmetic and Geometric Progressions.
+Quadratic Equations.
+Mean and Median.
+Prime Numbers.
+LCM and HCF
+Factorials
+Permutations and Combinations
+Modular Arithmetic
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

@@ -1,0 +1,26 @@
+Introduction 
+
+Dynamic Programming
+Memoization
+Tabulation
+
+Problems(With Video Solutions):
+
+Longest Common Subsequence
+Coin Change Count Combinations
+Edit Distance Problem -Naive Approach
+Edit Distance Problem -DP Approach
+Longest Increasing Subsequence Problem - Naive Approach
+Longest Increasing Subsequence Problem - Efficient Approach
+Maximum Cuts 
+Minimum coins to make a value 
+Minimum Jumps to reach at the end 
+0-1 knapsack problem - Naive Approach
+0-1 knapsack problem - Efficient Approach
+Optimal Strategy for a Game 
+Variation of Longest Common Subsequence
+Variation of Longest Increasing Subsequence
+Egg Dropping Problem 
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

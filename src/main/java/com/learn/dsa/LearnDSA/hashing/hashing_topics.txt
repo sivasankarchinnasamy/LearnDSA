@@ -1,0 +1,17 @@
+Problems(With Video Solutions):
+
+Count Distinct Elements
+Count of the frequency of array elements
+The intersection of two arrays
+Union of two unsorted arrays
+Pair with given sum in an unsorted array
+Subarray with zero-sum
+Subarray with given sum
+Longest subarray with a given sum
+Longest subarray with an equal number of 0�s and 1�s
+Longest common span with the same sum in a binary array
+Longest Consecutive Subsequence
+Count Distinct elements in every window
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

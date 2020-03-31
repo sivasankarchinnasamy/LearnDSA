@@ -1,0 +1,13 @@
+Problems(With Video Solutions):
+
+Balanced Parenthesis
+Two stacks in an array
+K Stacks in an array
+Stock span problem with variations
+Previous Greater Element
+Next Greater Element
+Largest Rectangular Area in a Histogram
+Understanding getMin() in Stack with O(1)
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

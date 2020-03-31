@@ -20,7 +20,7 @@ public class QuickSort {
 
 	}
 
-	void quicksort(int[] arr, int lb, int ub) {
+	public void quicksort(int[] arr, int lb, int ub) {
 		if (lb < ub) {
 			int loc = partition(arr, lb, ub);
 			quicksort(arr, lb, loc - 1);

@@ -1,0 +1,26 @@
+Operations on Arrays
+
+Searching
+Insertions
+Deletion
+
+Arrays vs other DS
+Reversing - Explanation with complexity
+
+Problems(With Video Solutions)
+
+Left Rotation of the array by 1
+Left Rotation of the array by D places
+Leaders in an Array
+Maximum Difference Problem
+Stock Buy and Sell Problem
+Trapping Rainwater Problem
+Maximum subarray sum
+Longest even-odd subarray
+Maximum Circular sum subarray.
+Majority Element
+Sliding Window Technique
+Prefix sum technique
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

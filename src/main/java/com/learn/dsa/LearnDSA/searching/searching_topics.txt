@@ -1,0 +1,20 @@
+Binary Search and various associated problems(With Video Solutions)
+
+Leftmost index of an element in an array
+Count of occurrences of x in sorted element
+Count of 1s in a binary sorted array
+Find an element in sorted and rotated array
+Peak element
+Find an element in an infinite sized sorted array
+The square root of an integer
+Two Pointer Approach Problems(With Video Solutions)
+Find pair in an unsorted array which gives sum X
+Find pair in a sorted array which gives sum X
+Find triplet in an array which gives sum X
+
+Problems(With Video Solutions)
+Median of two sorted arrays
+Majority Element
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

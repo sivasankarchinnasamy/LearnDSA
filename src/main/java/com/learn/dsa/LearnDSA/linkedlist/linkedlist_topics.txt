@@ -1,0 +1,15 @@
+Problems(With Video Solutions):
+
+Middle of Linked List
+Nth node from the end of linked list
+Deleting a Node without accessing Head pointer of Linked List
+An iterative method to Reverse a linked list
+Recursive method to reverse a linked list
+Segregating even-odd nodes of linked list
+The intersection of two linked list
+Pairwise swap nodes of linked list
+Clone a linked list using a random pointer
+LRU Cache Design
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

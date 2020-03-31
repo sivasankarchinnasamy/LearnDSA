@@ -1,0 +1,18 @@
+TreeSet in java 
+TreeMap in Java 
+
+Problems(With Video Solutions):
+
+The ceiling of a key in BST
+Ceiling on the left side in an array
+Find Kth Smallest in BST
+Check for BST
+Fix BST with Two Nodes Swapped
+Pair Sum with given BST
+Vertical Sum in a Binary Tree
+Vertical Traversal of Binary Tree
+Top View of Binary Tree
+Bottom View of Binary Tree
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

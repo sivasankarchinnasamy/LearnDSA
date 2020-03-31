@@ -1,0 +1,20 @@
+Problem(With Video Solutions): Check Kth bit is set or not
+
+Method 1: Using the left Shift.
+Method 2: Using the right shift
+
+Problem(With Video Solutions): Count Set Bits
+
+Method 1: Simple method
+Method 2: Brian and Kerningham Algorithm
+Method 3: Using Lookup Table
+
+Problems(With Video Solutions):
+
+To check whether a number is a power of 2 or not
+Odd occurrences in an array.
+Two numbers having odd occurrences in an array.
+Generate power set using bitwise operators.
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.

@@ -1,0 +1,11 @@
+PriorityQueue in Java
+
+Problems(With Video Solutions): 
+Sort K-Sorted Array
+Buy Maximum Items with Given Sum
+K Largest Elements
+Merge K Sorted Arrays
+Median of a Stream
+
+Practice Problems
+This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
