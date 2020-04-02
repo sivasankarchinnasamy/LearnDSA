@@ -1,8 +1,10 @@
 package com.learn.dsa.LearnDSA.array.problems;
 
 import java.util.*;
-/*
- Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
+/*Problem: Trapping Rain Water Problem
+  Reference: https://www.geeksforgeeks.org/trapping-rain-water/
+ ------------------------------------------------------------------------------------------
+Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it is able to trap after raining.
 Examples:
 
 Input: arr[]   = {2, 0, 2}

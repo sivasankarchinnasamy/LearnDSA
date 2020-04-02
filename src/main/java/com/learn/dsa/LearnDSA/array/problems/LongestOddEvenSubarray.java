@@ -1,7 +1,8 @@
 package com.learn.dsa.LearnDSA.array.problems;
 
 /*
- * Problem
+ Problem : Longest Odd Even Subarray
+   Reference:  https://www.geeksforgeeks.org/longest-increasing-odd-even-subsequence/
 ----------------------------------------------------------
 Given an array of size n. The problem is to find the length of the subsequence in the given array such that all the elements of the subsequence are sorted in increasing order and also they are alternately odd and even.
 Note that the subsequence could start either with the odd number or with the even number.

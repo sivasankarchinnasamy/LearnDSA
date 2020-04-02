@@ -1,6 +1,7 @@
 package com.learn.dsa.LearnDSA.array.problems;
 
-/* Problems 
+/* Problems : Array rotation
+ * Reference: https://www.geeksforgeeks.org/array-rotation/
  * ----------
  * Left Rotation of the array by 1
  * Left Rotation of the array by D places 

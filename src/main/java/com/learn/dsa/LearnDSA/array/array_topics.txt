@@ -17,9 +17,8 @@ Stock Buy and Sell Problem
 Trapping Rainwater Problem
 Maximum subarray sum
 Longest even-odd subarray
-
-Maximum Circular sum subarray.
-Majority Element
+Maximum Circular sum subarray. (Uses Kadane's Algorithm - Refer in array)
+Majority Element (Uses Moore’s Voting Algorithm)
 Sliding Window Technique
 Prefix sum technique
 
