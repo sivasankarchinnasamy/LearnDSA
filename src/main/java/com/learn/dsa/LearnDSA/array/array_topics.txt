@@ -23,4 +23,5 @@ Sliding Window Technique
 Prefix sum technique
 
 Practice Problems
-https://practice.geeksforgeeks.org/explore/?category%5B%5D=Arrays&company%5B%5D=Amazon&page=1
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/#arrays (27 problems)
+https://practice.geeksforgeeks.org/explore/?category%5B%5D=Arrays&company%5B%5D=Amazon&page=1 (600+ questions)
