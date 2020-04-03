@@ -2,7 +2,8 @@ package com.learn.dsa.LearnDSA.sorting;
 
 public class QuickSort {
 
-	static int[] arr = { 8, 7, 1, 42, 23, 55 };
+	//static int[] arr = { 8, 7, 1, 42, 23, 55 };
+	static int[] arr = 	{7, 10, 4, 3, 20, 15, 6};
 
 	public static void main(String[] args) {
 		QuickSort sort = new QuickSort();

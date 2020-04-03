@@ -1,8 +1,8 @@
 Problems(With Video Solutions)
 
-Kth Smallest element
+Kth Smallest element (problem with quick sort - fix it)
 Chocolate Distribution Problem
-Sorting arrays with 2 and3 types of elements
+Sorting arrays with 2 and3 types of elements (Dutch Flag problem)
 Merge Overlapping Intervals
 Intersection of 2 sorted arrays
 Union of 2 sorted arrays
