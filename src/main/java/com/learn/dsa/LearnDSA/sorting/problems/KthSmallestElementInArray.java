@@ -22,7 +22,7 @@ Sort the array first and then find element at relevant position.
  * */
 
 public class KthSmallestElementInArray {
-	static int[] arr = {7, 10, 4, 3, 20, 15, 6};
+	static int[] arr = {7, 10, 4, 3, 20, 15, 6, 76, 35, 1,34,5,67,0,2,123,78};
 
 	public void quicksort(int[] arr, int lb, int ub) {
 		if (lb < ub) {
@@ -33,21 +33,21 @@ public class KthSmallestElementInArray {
 	}
 
 	public int partition(int[] arr, int lb, int ub) {
-		int pivot = arr[lb];
+		int pivot = arr[ub];
 		int start = lb;
 		int end = ub;
 		while (start < end) {
-			while (arr[start] <= pivot) {
+			while (arr[start] <= pivot && start<ub) {
 				start++;
 			}
-			while (arr[end] > pivot) {
+			while (arr[end] > pivot && end>=lb) {
 				end--;
 			}
 			if (start < end) {
 				swap(start, end);
 			}
 		}
-		swap(lb, end);
+		swap(lb, end); // swap pivot with end
 		return end;
 	}
 

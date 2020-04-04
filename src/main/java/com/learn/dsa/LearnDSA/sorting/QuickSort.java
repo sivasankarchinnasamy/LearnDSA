@@ -3,7 +3,7 @@ package com.learn.dsa.LearnDSA.sorting;
 public class QuickSort {
 
 	//static int[] arr = { 8, 7, 1, 42, 23, 55 };
-	static int[] arr = 	{7, 10, 4, 3, 20, 15, 6};
+	static int[] arr = 	{7, 10, 4, 3, 20, 15, 6,45,56,23,78,23,89,99,1,2,4};
 
 	public static void main(String[] args) {
 		QuickSort sort = new QuickSort();
@@ -34,17 +34,17 @@ public class QuickSort {
 		int start = lb;
 		int end = ub;
 		while (start < end) {
-			while (arr[start] <= pivot) {
+			while (arr[start] <= pivot && start<ub) {
 				start++;
 			}
-			while (arr[end] > pivot) {
+			while (arr[end] > pivot && end>=lb) {
 				end--;
 			}
 			if (start < end) {
 				swap(start, end);
 			}
 		}
-		swap(lb, end);
+		swap(lb, end); // swap pivot with end
 		return end;
 	}
 
