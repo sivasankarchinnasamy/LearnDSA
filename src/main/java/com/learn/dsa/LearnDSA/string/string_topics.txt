@@ -3,7 +3,7 @@ Problems(With Video Solutions):
 Given a string, check if they are an anagram of each other.
 Given a string, find the leftmost character that repeats.
 Given a string, find the leftmost character that does not repeat.
-?Given a string, find the lexicographic rank of it in O(n) time.
+Given a string, find the lexicographic rank of it in O(n) time.
 Implementation of the previously discussed lexicographic rank problem.
 Given a text string and a pattern string, find if a permutation of the pattern exists in the text.
 Given two strings, check if they are rotations of each other or not.

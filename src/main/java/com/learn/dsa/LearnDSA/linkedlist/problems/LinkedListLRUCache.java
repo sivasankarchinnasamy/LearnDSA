@@ -54,20 +54,17 @@ class LRUCache {
 			int result = node.value; 
 			deleteNode(node); 
 			addToHead(node); 
-			System.out.println("Got the value : " + 
-				result + " for the key: " + key); 
+			System.out.println("Got the value : " + result + " for the key: " + key); 
 			return result; 
 		} 
-		System.out.println("Did not get any value" + 
-							" for the key: " + key); 
+		System.out.println("Did not get any value" + " for the key: " + key); 
 		return -1; 
 	} 
 
 	// This method works in O(1) 
 	public void set(int key, int value) 
 	{ 
-		System.out.println("Going to set the (key, "+ 
-			"value) : (" + key + ", " + value + ")"); 
+		System.out.println("Going to set the (key, "+"value) : (" + key + ", " + value + ")"); 
 		if (map.get(key) != null) { 
 			Node node = map.get(key); 
 			node.value = value; 

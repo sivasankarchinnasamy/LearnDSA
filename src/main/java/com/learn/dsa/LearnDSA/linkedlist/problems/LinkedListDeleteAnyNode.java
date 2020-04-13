@@ -23,12 +23,12 @@ class LinkedListDeleteAnyNode {
 			node = node.next; 
 		} 
 	} 
-
+	// To delete nth node - get n+1 node and put data and next reference of n+1 node in nth node.  
 	void deleteNode(Node node) { 
 		Node temp = node.next; 
 		node.data = temp.data; 
 		node.next = temp.next; 
-		System.gc(); 
+		//System.gc(); 
 
 	} 
 
@@ -45,7 +45,7 @@ class LinkedListDeleteAnyNode {
 		list.printList(head); 
 
 		/* I m deleting the head itself. You can check for more cases */
-		list.deleteNode(head); 
+		list.deleteNode(head.next); 
 		System.out.println(""); 
 		System.out.println("After deleting "); 
 		list.printList(head); 

@@ -6,11 +6,9 @@ class LinkedListIntersection {
 
 	static Node head1, head2; 
 
-	static class Node { 
-
+	static class Node {
 		int data; 
-		Node next; 
-
+		Node next;
 		Node(int d) 
 		{ 
 			data = d; 
@@ -18,8 +16,7 @@ class LinkedListIntersection {
 		} 
 	} 
 
-	/*function to get the intersection point of two linked 
-	lists head1 and head2 */
+	/*function to get the intersection point of two linked lists head1 and head2 */
 	int getNode() 
 	{ 
 		int c1 = getCount(head1); 
