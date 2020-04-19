@@ -1,6 +1,7 @@
 Introduction to Graph 
 
-Graph Representation
+Graph Representation:
+----------------------
 Adjacency Matrix
 Adjacency List in CPP and Java
 Adjacency Matrix VS List
@@ -8,7 +9,7 @@ Breadth-First Search
 Depth First Search 
 
 Problems(With Video Solutions):
-
+--------------------------------
 Shortest Path in an Unweighted Graph 
 Detecting Cycle
 In the Undirected Graph 
@@ -22,13 +23,14 @@ Practice Problems
 This track contains many practice problems for the users which are considered important and must-do as far as Data Structure and Algorithm is concerned.
 
 Advanced:
+---------
 Prim's Algorithm/Minimum Spanning Tree
 Dijkstra's Shortest Path Algorithm
 Bellman-Ford Shortest Path Algorithm
 Kosaraju's Algorithm
 Articulation Point
 Bridges in Graph
-Tarjan�s Algorithm
+Tarjan's Algorithm
 
 Practice Problems
 https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/#graph

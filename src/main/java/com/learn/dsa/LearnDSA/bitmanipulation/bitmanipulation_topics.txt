@@ -1,3 +1,8 @@
+Bitwise Operators in Java
+Operation of AND, OR
+Operation of Bitwise Not, Left Shift
+Operation of Right Shift and unsigned Right Shift
+
 Problem(With Video Solutions): Check Kth bit is set or not
 
 Method 1: Using the left Shift.

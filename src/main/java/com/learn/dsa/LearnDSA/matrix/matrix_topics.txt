@@ -1,5 +1,4 @@
 Printing matrix in a snake pattern
-
 Transposing a matrix
 Rotating a Matrix
 Check if the element is present in a row and column-wise sorted matrix.

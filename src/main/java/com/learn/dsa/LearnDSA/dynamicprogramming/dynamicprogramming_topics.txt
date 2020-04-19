@@ -1,11 +1,12 @@
 Introduction 
 
-Dynamic Programming
+Dynamic Programming:
+-------------------
 Memoization
 Tabulation
 
 Problems(With Video Solutions):
-
+--------------------------------
 Longest Common Subsequence
 Coin Change Count Combinations
 Edit Distance Problem -Naive Approach

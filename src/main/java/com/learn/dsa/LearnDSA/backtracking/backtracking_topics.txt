@@ -1,5 +1,4 @@
 Concepts of Backtracking 
-
 Rat In a Maze
 N Queen Problem
 Sudoku Problem 

@@ -1,3 +1,11 @@
+Implementation in Java
+Doubly Linked List
+Circular Linked List
+Loop Problems
+Detecting Loops
+Detecting loops using Floyd cycle detection
+Detecting and Removing Loops in Linked List
+
 Problems(With Video Solutions):
 
 Middle of Linked List

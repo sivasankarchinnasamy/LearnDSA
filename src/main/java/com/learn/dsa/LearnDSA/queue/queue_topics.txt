@@ -1,5 +1,6 @@
-Problems(With Video Solutions)
+Implementation of the queue using array and LinkedList in Queue
 
+Problems(With Video Solutions)
 Reversing a Queue
 Generate numbers with given digits
 Maximums of all subarrays of size k

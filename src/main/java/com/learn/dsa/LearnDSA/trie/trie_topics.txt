@@ -1,0 +1,11 @@
+Introduction :
+-------------------------------------------------------
+Representation
+Search
+Insert
+Delete
+
+Count Distinct Rows in a Binary Matrix
+
+Practice Problems
+https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/#trie

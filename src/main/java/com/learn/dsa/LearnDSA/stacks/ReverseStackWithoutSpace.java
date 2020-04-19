@@ -1,6 +1,6 @@
 package com.learn.dsa.LearnDSA.stacks;
 // Java program to implement Stack using linked list so that reverse can be done with O(1) extra space. 
-class StackNode { 
+class StackNode {
 	int data; 
 	StackNode next; 
 	public StackNode(int data) 

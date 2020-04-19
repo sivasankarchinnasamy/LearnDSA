@@ -1,3 +1,9 @@
+Introduction & Implementation
+Binary Heap
+Insertion
+Heapify and Extract
+Decrease Key, Delete and Build Heap
+Heap Sort 
 PriorityQueue in Java
 
 Problems(With Video Solutions): 

@@ -1,5 +1,8 @@
-Problems(With Video Solutions):
+Understanding the Stack data structure
+Applications of Stack
+Implementation of Stack in Array and Linked List in Java
 
+Problems(With Video Solutions):
 Balanced Parenthesis
 Two stacks in an array
 K Stacks in an array

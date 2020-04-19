@@ -1,5 +1,20 @@
-Problems(With Video Solutions):
+Introduction and Time complexity analysis
 
+Application of Hashing
+
+Discussion on Direct Address Table
+Working and examples on various Hash Functions
+Introduction and Various techniques on Collision Handling
+Chaining and its implementation
+Open Addressing and its Implementation
+Chaining V/S Open Addressing
+Double Hashing
+
+Java
+HashSet
+HashMap
+
+Problems(With Video Solutions):
 Count Distinct Elements
 Count of the frequency of array elements
 The intersection of two arrays

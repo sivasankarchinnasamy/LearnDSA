@@ -1,3 +1,27 @@
+Sorting in Java
+Arrays.sort() in Java
+Collection.sort() in Java
+Stability in Sorting Algorithms
+
+Insertion Sort
+Merge Sort
+
+Problems(With Video Solutions)
+Intersection of 2 sorted arrays
+Union of 2 sorted arrays
+Count Inversions in arrays
+
+Partitions(With Video Solutions)
+Naive
+Lomuto
+Hoare
+
+Quick Sort
+Using Lomuto and Hoare
+Time and Space analysis
+Choice of Pivot and Worst case
+Tail call elimination
+
 Problems(With Video Solutions)
 
 Kth Smallest element (problem with quick sort - fix it)

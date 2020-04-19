@@ -1,5 +1,4 @@
 Introduction
-
 Activity Selection Problem
 Fractional Knapsack
 Job Sequencing Problem
