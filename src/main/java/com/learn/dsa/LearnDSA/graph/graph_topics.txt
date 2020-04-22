@@ -3,7 +3,7 @@ Introduction to Graph
 Graph Representation:
 ----------------------
 Adjacency Matrix
-Adjacency List in CPP and Java
+Adjacency List in Java
 Adjacency Matrix VS List
 Breadth-First Search 
 Depth First Search 
