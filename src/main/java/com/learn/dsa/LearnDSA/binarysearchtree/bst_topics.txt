@@ -3,11 +3,10 @@ Background, Introduction and Application:
 Implementation of Search in BST in Java
 Insertion in BST in Java
 Deletion in BST in Java
-Floor in BST in Java 
-
-Self Balancing BST 
-AVL Tree 
-Red Black Tree 
+Floor in BST in Java
+Self Balancing BST (skipping - no good reference available)
+AVL Tree  (skipping - no good reference available)
+Red Black Tree  (skipping - no good reference available)
 TreeSet in java 
 TreeMap in Java 
 

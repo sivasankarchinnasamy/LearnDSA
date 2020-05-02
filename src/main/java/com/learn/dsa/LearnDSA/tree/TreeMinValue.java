@@ -14,14 +14,12 @@ class TreeMinValue {
 	root pointer which the caller should then use 
 	(the standard trick to avoid using reference 
 	parameters). */
-	Node insert(Node node, int data) { 
-		
+	Node insert(Node node, int data) {		
 		/* 1. If the tree is empty, return a new,	 
 		single node */
 		if (node == null) { 
 			return (new Node(data)); 
-		} else { 
-			
+		} else {			
 			/* 2. Otherwise, recur down the tree */
 			if (data <= node.key) { 
 				node.left = insert(node.left, data); 
@@ -61,6 +59,4 @@ class TreeMinValue {
 
 		System.out.println("Minimum value of BST is " + tree.minvalue(root)); 
 	} 
-} 
-
-//This code is contributed by Mayank Jaiswal 
+}
